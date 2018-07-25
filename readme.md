@@ -103,7 +103,7 @@ Acknowledgements
 
 Cowsay was written by Tony Monroe a really long time ago.
 
-Mauricio Caceres Bravo (@mcaceresb) made this a lot better.
+Mauricio Caceres Bravo ([@mcaceresb](https://github.com/mcaceresb)) made this a lot better.
 
 
 License
