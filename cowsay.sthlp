@@ -17,7 +17,6 @@
 {p 8 15 2}
 {cmd:cowsay}
 string or expression in quotations
-{weight}, by(varlist)
 [{cmd:}{it:options}]
                                
  
@@ -27,14 +26,6 @@ string or expression in quotations
  
 {syntab :Main}
 {synopt :{opt animal(type)}}{it:type} may be {bf:cow} (default), {bf:pig}, or {bf:benny}.{p_end}
- 
-
-{synoptline}
-{p 4 6 2}
-{opt aweight}s are allowed;
-see {help weight}.
-{p_end}
- 
  
  
 {marker description}{...}
@@ -51,7 +42,7 @@ see {help weight}.
 {dlgtab:Main}
  
 {phang}
-{opth vce(vcetype)} Choose an animal. The default is a cow. You can also choose a pig or Benny.
+{opth animal(type)} Choose an animal. The default is a cow. You can also choose a pig or benny.
  
 {marker examples}{...}
 {title:Examples}
