@@ -1,0 +1,8 @@
+v 0.9
+d
+d 'cowsay': stata implementation of cowsay
+d
+d Distribution-Date: 20180724
+d
+f cowsay.ado
+f cowsay.sthlp

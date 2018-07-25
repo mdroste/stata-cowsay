@@ -1,0 +1,4 @@
+
+v 0.9
+d Michael Droste, thedroste@gmail.com
+p 'cowsay': stata implementation of cowsay
