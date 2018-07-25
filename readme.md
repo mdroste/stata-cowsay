@@ -12,7 +12,7 @@ cowsay
 
 Mooooo
 
-`version 0.5 24jul2018`
+`version 0.9 24jul2018`
 
 
 Overview
@@ -41,11 +41,10 @@ Usage
 
 Consider the following example Stata output:
 
-```stata
+```
 . sysuse auto
 (1978 Automobile Data)
 
-. 
 . reg price mpg
 
       Source |       SS           df       MS      Number of obs   =        74
@@ -102,7 +101,7 @@ The following items will be addressed, maybe:
 Acknowledgements
 ---------------------------------
 
-Cowsay, and probably all of the ASCII art herein, is older than me.
+Cowsay and all of this ASCII art is older than me.
 
 
 License
