@@ -101,7 +101,7 @@ The following items will be addressed, maybe:
 Acknowledgements
 ---------------------------------
 
-Cowsay and all of this ASCII art is older than me.
+Cowsay was written by Tony Monroe a really long time ago.
 
 
 License
