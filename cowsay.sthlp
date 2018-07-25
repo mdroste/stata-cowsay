@@ -24,10 +24,9 @@ string or expression in quotations
 {synopthdr :options}
 {synoptline}
  
-{syntab :Main}
 {synopt :{opt animal(type)}}{it:type} may be {bf:cow} (default), {bf:pig}, or {bf:benny}.{p_end}
  
- 
+{synoptline}
  
  
 {marker description}{...}
