@@ -25,7 +25,7 @@ Much-needed [Cowsay](https://en.wikipedia.org/wiki/Cowsay) functionality for Sta
 Installation
 ---------------------------------
 
-There are two options for installing regressby.
+You have two options to get mooving with cowsay.
 
 1. The most recent version can be installed from Github with the following Stata command:
 
