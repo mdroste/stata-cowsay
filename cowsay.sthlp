@@ -34,7 +34,6 @@ string or expression in quotations
  
 {pstd}
 {opt cowsay} implements essential cowsay functionality in Stata.
-
  
  
 {marker options}{...}
@@ -44,6 +43,7 @@ string or expression in quotations
  
 {phang}
 {opth animal(type)} Choose an animal. The default is animal(cow). You can also choose animal(pig) or animal(benny).
+ 
  
 {marker examples}{...}
 {title:Examples}
