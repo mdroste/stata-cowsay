@@ -28,6 +28,8 @@ string or expression in quotations
 {synopt :{opt animal(type)}}{it:type} may be {bf:cow} (default), {bf:pig}, or {bf:benny}.{p_end}
  
  
+ 
+ 
 {marker description}{...}
 {title:Description}
  
