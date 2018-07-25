@@ -55,7 +55,7 @@ local animals cow          ///
               duck         ///
               owl
 
-* Error handling: only animals supported are cow, pig, benny
+* Error handling: if animal() specified, make sure that it is a valid choice
 if ( ~`:list animal in animals' ) {
     di as error `"CRITICAL COWSAY ERROR: animal chosen (`animal') is not in the menagerie."'
     di as error `"Currently supported animals:"'
