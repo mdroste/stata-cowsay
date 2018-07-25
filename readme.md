@@ -12,7 +12,7 @@ cowsay
 
 Mooooo
 
-`version 0.9 24jul2018`
+`version 1.0 25jul2018`
 
 
 Overview
@@ -61,7 +61,6 @@ Consider the following example Stata output:
        _cons |   11253.06   1170.813     9.61   0.000     8919.088    13587.03
 ------------------------------------------------------------------------------
 
-. 
 . cowsay "Mooo! The R2 is `e(r2)'"
  
    -----------------------------------
