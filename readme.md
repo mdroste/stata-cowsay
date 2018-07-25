@@ -91,11 +91,9 @@ Cowsay is the first Stata program to implement cowsay functionality in 33 years.
 Todo
 ---------------------------------
 
-The following items will be addressed, maybe:
+The following items will be addressed before submitting to SSC, maybe:
 
-- [x] Build a larger menagerie
-- [ ] Build super huge menagerie
-- [x] Provide a help file
+- [ ] Word wrap
 
 
 Acknowledgements
