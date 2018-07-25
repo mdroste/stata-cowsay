@@ -93,7 +93,8 @@ Todo
 
 The following items will be addressed, maybe:
 
-- [ ] Build a larger menagerie
+- [x] Build a larger menagerie
+- [ ] Build super huge menagerie
 - [x] Provide a help file
 
 
@@ -101,6 +102,8 @@ Acknowledgements
 ---------------------------------
 
 Cowsay was written by Tony Monroe a really long time ago.
+
+Mauricio Caceres Bravo (@mcaceresb) made this a lot better.
 
 
 License
