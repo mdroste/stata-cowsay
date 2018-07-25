@@ -42,7 +42,7 @@ string or expression in quotations
 {dlgtab:Main}
  
 {phang}
-{opth animal(type)} Choose an animal. The default is a cow. You can also choose a pig or benny.
+{opth animal(type)} Choose an animal. The default is animal(cow). You can also choose animal(pig) or animal(benny).
  
 {marker examples}{...}
 {title:Examples}
