@@ -56,7 +56,7 @@ help cowsay
 Benchmarks
 ---------------------------------
 
-![cowsay benchmark](benchmarks/cowsay_benchmark.png "cowsay benchmark")
+![cowsay benchmark](benchmarks/benchmark_cowsay.png "cowsay benchmark")
   
 
 Todo
